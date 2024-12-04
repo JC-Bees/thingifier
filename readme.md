@@ -1,5 +1,5 @@
 # Thingifier
-
+#JC codacy proof
 An experiment in Model Based API Development.
 
 ## Download
